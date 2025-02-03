@@ -23,6 +23,10 @@ Add new departments, roles, and employees.
 Update employee roles.
 
 
+https://github.com/user-attachments/assets/c5d72034-ec70-4dab-a9b8-d13ed7f27780
+
+
+
 ## Contributing
  MUSTARRRDDDDD
 
